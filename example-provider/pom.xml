@@ -17,7 +17,7 @@
   <dependencies>
     <dependency>
       <groupId>com.yupei</groupId>
-      <artifactId>pei-rpc-easy</artifactId>
+      <artifactId>pei-rpc-core</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
     <dependency>
